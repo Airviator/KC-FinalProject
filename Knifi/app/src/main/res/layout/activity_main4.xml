@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/plainbackground"
+    android:fillViewport="true"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/segoeui"
+        android:text="Sharpening With a Whetstone :                                                              Our favorite way to sharpen a blade is to use a whetstone—a rectangular block that works almost like sandpaper, helping to straighten and refine the cutting edge on the blade as you slide the knife across it. Most whetstones are designed to be soaked in water before every use, so check the manufacturer's instructions to be sure. (Fun fact: Whetstones aren't actually named for the fact that most are used wet—&quot;whet&quot; is actually just an old word for &quot;sharpen&quot;).  If your whetstone needs to be soaked, submerge it in water until it's completely saturated and there are no bubbles coming out of it, 5 to10 minutes. To use it, hold the knife at a 20-degree angle against the whetstone, and gently drag each side of the knife against it a few times. Most whetstones have both a &quot;coarse-grind side&quot; and a &quot;fine-grind side&quot;—start with the coarse side if your knife is especially dull, then repeat the process on the fine-grind side. If you already sharpen your knife yearly and hone it regularly, you can go straight to the fine-grind side. If the whetstone seems to be drying out as you use it, just rub some more water on it and continue on."
+        android:textColor="#FFFFFF"
+        android:textSize="24sp" />
+
+</ScrollView>
